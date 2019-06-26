@@ -1,6 +1,3 @@
-Le but de cet exercice est de déterminer la capacité du candidat à implémenter une réponse complète à un besoin concret, avec une solution efficace respectant les contraintes, et un code de qualité. 
-
-
 Énoncé:
 --------
 
@@ -68,7 +65,7 @@ Livrable:
 Application packagée et prête à être utilisée avec sa documentation.
 
 
-Critères de sélection:
+Critères de qualité:
 ----------------------
 
 	1. Réponse au besoin et en particulier aux contraintes
